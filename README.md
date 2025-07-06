@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/YOUR_USER_ID?v=4" width="150" style="border-radius: 50%" />
+  <img src="https://avatars.githubusercontent.com/u/chetan705?v=4" width="150" style="border-radius: 50%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Chetan Sharma</h1>
@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/chetansharma20/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:chetanprakashshama@gmail.com@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:chetanprakashshama@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -65,3 +65,72 @@ My current focus is on integrating **cloud-native tools**, optimizing performanc
 
 #### 🧪 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+---
+
+### 🔥 Featured Projects
+
+✅ **CareerLink**  
+A MERN-based job portal deployed on AWS EC2 in Docker with CI/CD via Jenkins, resume parsing, live job tracking, and CloudWatch monitoring.
+
+✅ **Stock Market Predictor**  
+Built with Flask & TensorFlow (RNN), predicts stock trends using real-time APIs with 95%+ accuracy and graph visualization.
+
+✅ **Bank Management System**  
+Advanced PHP + MySQL system for account creation, loan applications, FDs, dynamic installment tracker & real-time dashboard.
+
+✅ **ClassGuard – AI Classroom Monitoring**  
+Smart classroom tool for face recognition, monitoring and alerting, integrating Python CV libraries and real-time dashboards.
+
+✅ **Young Coder Editor**  
+A web-based code editor built with React + Node.js, with terminal execution, live output, and support for coding competitions.
+
+✅ **Travel Uttarakhand Website**  
+Multi-page HTML/CSS/JS travel website with weather API, tourist spots, carousel, and reviews.
+
+✅ **Inventory Manager**  
+PHP & MySQL system to manage stock, categories, and invoices with a clean and responsive interface.
+
+---
+
+### 📜 Certifications
+
+- 🏅 **AWS Certified Solutions Architect – Associate**
+- 🏅 **AWS Certified Developer – Associate**
+- 🧠 **Supervised ML – DeepLearning.AI (Stanford)**
+- 🎓 **Prompt Engineering – IBM Developer Skills Network**
+- 💻 **MERN Internship – Coding Blocks**
+- 🚀 **The Complete 2024 Web Dev Bootcamp – Angela Yu**
+- 🌐 **Foundations of Front-End Dev – IBM**
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=chetan705&show_icons=true&theme=tokyonight" />
+  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=chetan705&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=chetan705&theme=react-dark" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=chetan705&label=Profile%20Views&color=brightgreen&style=flat" alt="chetan705" />
+</p>
+
+---
+
+### 🤝 Let’s Collaborate!
+
+- 📬 Reach me at: **chetanprakashshama@gmail.com**
+- 🔗 Connect on [LinkedIn](https://www.linkedin.com/in/chetansharma20/)
+- 📁 Check out my pinned repositories for hands-on project showcases
+
+---
+
+> 💡 *“Code is not just a skill — it's a tool for building a better future.”*
