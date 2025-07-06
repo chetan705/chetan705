@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/chetan705?v=4" width="150" style="border-radius: 50%" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Chetan Sharma</h1>
 <h3 align="center">Full Stack Developer | Cloud & DevOps Enthusiast | Passionate Coder | AWS Certified</h3>
 
