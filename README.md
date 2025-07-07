@@ -115,10 +115,6 @@ PHP & MySQL system to manage stock, categories, and invoices with a clean and re
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=chetan705&theme=react-dark" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chetan705&label=Profile%20Views&color=brightgreen&style=flat" alt="chetan705" />
-</p>
-
 ---
 
 ### 🤝 Let’s Collaborate!
