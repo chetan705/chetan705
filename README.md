@@ -107,12 +107,16 @@ PHP & MySQL system to manage stock, categories, and invoices with a clean and re
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=chetan705&show_icons=true&theme=tokyonight" />
-  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=chetan705&theme=tokyonight" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=chetan705&show_icons=true&theme=tokyonight&hide=issues&count_private=true&hide_border=true&cache_seconds=86400" alt="Chetan's GitHub Stats" />
+  <img width="47%" src="https://streak-stats.demolab.com/?user=chetan705&theme=tokyonight&hide_border=true&date_format=M%20j%5B,%20Y%5D" alt="Chetan's GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=chetan705&theme=react-dark" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetan705&layout=compact&theme=tokyonight&hide=html,css,jupyter%20notebook&count_private=true&hide_border=true&langs_count=8&cache_seconds=86400" alt="Chetan's Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=chetan705&theme=tokyonight&hide_border=true&area=true&hide_title=true" alt="Chetan's Contribution Graph" />
 </p>
 
 ---
